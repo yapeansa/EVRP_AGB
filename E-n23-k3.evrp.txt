@@ -32,10 +32,10 @@ Valor Máximo da Distância: 918.56
 Valor Mínimo da Distância: 918.56
 
 Valor Ótimo Time 1: 571.94
-Diferença percentual média em relação ao valor ótimo: 60.60%
+Diferença percentual média: 60.60%
 
 Valor Ótimo Time 2: 571.94
-Diferença percentual média em relação ao valor ótimo: 60.60%
+Diferença percentual média: 60.60%
 
 Valor Ótimo Time 1: 571.94
-Diferença percentual média em relação ao valor ótimo: 60.60%
+Diferença percentual média: 60.60%
