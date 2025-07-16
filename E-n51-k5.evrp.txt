@@ -1,0 +1,41 @@
+--- Estatísticas das Execuções do AG Binário ---
+Instância: E-n51-k5.evrp
+Número de Execuções: 20
+Número máximo de avaliações por execução: 1275000
+
+Resultados das Distâncias Individuais:
+  Execução 1: 1313.47
+  Execução 2: 1313.47
+  Execução 3: 1313.47
+  Execução 4: 1313.47
+  Execução 5: 1313.47
+  Execução 6: 1313.47
+  Execução 7: 1313.47
+  Execução 8: 1313.47
+  Execução 9: 1313.47
+  Execução 10: 1313.47
+  Execução 11: 1313.47
+  Execução 12: 1313.47
+  Execução 13: 1313.47
+  Execução 14: 1313.47
+  Execução 15: 1313.47
+  Execução 16: 1313.47
+  Execução 17: 1313.47
+  Execução 18: 1313.47
+  Execução 19: 1313.47
+  Execução 20: 1313.47
+
+--- Resumo Estatístico ---
+Média das Distâncias: 1313.47
+Desvio Padrão das Distâncias: 0.00
+Valor Máximo da Distância: 1313.47
+Valor Mínimo da Distância: 1313.47
+
+Valor Ótimo Time 1: 543.26
+Diferença percentual média em relação ao valor ótimo: 141.78%
+
+Valor Ótimo Time 2: 533.66
+Diferença percentual média em relação ao valor ótimo: 146.12%
+
+Valor Ótimo Time 1: 542.08
+Diferença percentual média em relação ao valor ótimo: 142.30%
