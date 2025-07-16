@@ -31,11 +31,11 @@ Desvio Padrão das Distâncias: 0.00
 Valor Máximo da Distância: 1313.47
 Valor Mínimo da Distância: 1313.47
 
-Valor Ótimo Time 1: 543.26
-Diferença percentual média: 141.78%
+Valor Ótimo Time 1: 529.90
+Diferença percentual média: 147.87%
 
 Valor Ótimo Time 2: 533.66
 Diferença percentual média: 146.12%
 
-Valor Ótimo Time 1: 542.08
-Diferença percentual média: 142.30%
+Valor Ótimo Time 1: 529.90
+Diferença percentual média: 147.87%
